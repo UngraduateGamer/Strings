@@ -23,3 +23,7 @@ print(name[len(name)-4:len(name)-2])
 
 # slicing
 print(name[0:5]) # 0 inclluding 4 excluding
+
+# len function len(str)
+str='rahul'
+print(len(str))
